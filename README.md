@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="https://images.app.goo.gl/dzBgUygYQd1bqEa89" target="blank"><img align="center" src="https://images.app.goo.gl/dzBgUygYQd1bqEa89" height="100" /></a>
