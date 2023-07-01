@@ -10,7 +10,8 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
- <h3 align="center"> Connect with me  </h3>
+ <h2 align="center"> 
+  Connect with me  </h2>
 
 <div align="center">
 <a href="https://github.com/Tecna3000" target="_blank">
