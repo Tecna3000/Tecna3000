@@ -48,4 +48,3 @@ Languages and tools  </h2>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Tecna3000&&style=flat-square" align="center" />
 </div>  
-  <img  src ="https://wakatime.com/badge/github/Tecna3000/>
