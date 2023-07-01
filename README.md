@@ -6,9 +6,10 @@
 
 
 <div align="center" href="fairy-winx.gif" target="blank"><img align="center" src="fairy-winx.gif" width= "150" /></div>
-<h3 align="center"> When doubt, go digital! </h3>
+<h3 align="center"> "When doubt, go digital! " -Tecna</h3>
 
-## Connect with me  
+<h3 align="center"> Connect with me  </h3>
+
 <div align="center">
 <a href="https://github.com/Tecna3000" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
