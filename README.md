@@ -56,9 +56,7 @@ Tools </h2>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tecna3000&show_icons=true&locale=en&layout=compact" alt="tecna3000" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecna3000&show_icons=true&locale=en" alt="tecna3000" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tecna3000&show_icons=true&locale=en&layout=compact" alt="tecna3000" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecna3000&show_icons=true&locale=en" alt="tecna3000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tecna3000&" alt="tecna3000" /></p>
 
