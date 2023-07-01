@@ -52,6 +52,7 @@ Tools </h2>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<div align="center">
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tecna3000&show_icons=true&locale=en&layout=compact" alt="tecna3000" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecna3000&show_icons=true&locale=en" alt="tecna3000" /></p>
@@ -63,3 +64,5 @@ Tools </h2>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Tecna3000&&style=flat-square" align="center" />
 </div>  
+</div>  
+
