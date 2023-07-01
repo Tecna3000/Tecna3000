@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi I'm Meriem</h1>
-### <div align="center"> A computer science student</div>  
+### <div align="center">A computer science student</div>  
 
 
 <div align="center" href="fairy-winx.gif" target="blank"><img align="center" src="fairy-winx.gif" width= "150" /></div>
