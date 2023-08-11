@@ -4,7 +4,7 @@
 <h1 align="center">Hi I'm Meriem</h1> <h3 align="center">A computer science student</h3>  
 
 
-<div align="center" href="https://tecna3000.github.io/Meriem-RAMDANI" target="blank"><img align="center" src="fairy-winx.gif" width= "150" /></div>
+<div align="center" href="https://tecna3000.github.io/Meriem-RAMDANI" target="blank"><img align="center" src="fairy-winx.gif" width= "150" href="https://tecna3000.github.io/Meriem-RAMDANI /></div>
 <h3 align="center"> "When doubt, go digital! " -Tecna</h3>
 
 
